@@ -4,6 +4,9 @@ Repository to upload my URI online judge problems' solutions.
 
 ## Solved
 
+&ensp;[Beginner](###Beginner)&ensp; |
+&ensp;[SQL](###sql)&ensp;
+
 - ### Beginner
 
   - [1000 - Hello World!](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)
@@ -24,3 +27,8 @@ Repository to upload my URI online judge problems' solutions.
     - [JavaScript Solution](./JavaScript/1070.js)
   - [1097 - Sequence IJ 3](https://www.urionlinejudge.com.br/judge/en/problems/view/1097)
     - [JavaScript Solution](./JavaScript/1097.js)
+
+- ### SQL
+
+  - [2615 - Expanding the Business](https://www.urionlinejudge.com.br/judge/en/problems/view/2615)
+    - [PostgreSQL Solution](./PostgreSQL/2615.psql)
