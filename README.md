@@ -29,6 +29,8 @@ Repository to upload my URI online judge problems' solutions.
     - [JavaScript Solution](./JavaScript/1097.js)
   - [1866 - Bill](https://www.urionlinejudge.com.br/judge/en/problems/view/1866)
     - [JavaScript Solution](./JavaScript/1866.js)
+  - [1157 - Divisors I](https://www.urionlinejudge.com.br/judge/en/problems/view/1157)
+    - [JavaScript Solution](./JavaScript/1157.js)
 
 - ### SQL
 
