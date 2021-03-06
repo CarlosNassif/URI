@@ -17,5 +17,17 @@ Repository to upload my URI online judge problems' solutions.
   - 1002
     - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1002)
     - [Solution](./JavaScript/1002.js)
+  - 1003
+    - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)
+    - [Solution](./JavaScript/1003.js)
+  - 1004
+    - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)
+    - [Solution](./JavaScript/1004.js)
+  - 1005
+    - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1005)
+    - [Solution](./JavaScript/1005.js)
+  - 1006
+    - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1006)
+    - [Solution](./JavaScript/1006.js)
 
 <!-- ## Tried -->
