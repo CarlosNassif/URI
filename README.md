@@ -2,9 +2,6 @@
 
 Repository to upload my URI online judge problems' solutions.
 
-<!-- - [Solved](#solved) -->
-<!-- - [Tried](#tried) -->
-
 ## Solved
 
 - Javascript
@@ -29,5 +26,3 @@ Repository to upload my URI online judge problems' solutions.
   - 1006
     - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1006)
     - [Solution](./JavaScript/1006.js)
-
-<!-- ## Tried -->
