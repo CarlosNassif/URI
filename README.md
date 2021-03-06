@@ -30,3 +30,6 @@ Repository to upload my URI online judge problems' solutions.
   - 1070
     - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1070)
     - [Solution](./JavaScript/1070.js)
+  - 1097
+    - [Problem](https://www.urionlinejudge.com.br/judge/en/problems/view/1097)
+    - [Solution](./JavaScript/1097.js)
