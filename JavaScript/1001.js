@@ -1,5 +1,3 @@
-// Problem: https://www.urionlinejudge.com.br/judge/en/problems/view/1001
-
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 
