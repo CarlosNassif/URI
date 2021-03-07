@@ -5,7 +5,8 @@ Repository to upload my URI online judge problems' solutions.
 ## Solved
 
 &ensp;[Beginner](#Beginner)&ensp; |
-&ensp;[SQL](#SQL)&ensp;
+&ensp;[SQL](#SQL)&ensp; |
+&ensp;[AD-HOC](#AD-HOC)&ensp;
 
 - ### Beginner
 
@@ -31,6 +32,11 @@ Repository to upload my URI online judge problems' solutions.
     - [JavaScript Solution](./JavaScript/1157.js)
   - [1866 - Bill](https://www.urionlinejudge.com.br/judge/en/problems/view/1866)
     - [JavaScript Solution](./JavaScript/1866.js)
+
+- ### AD-HOC
+
+  - [2374 - Pneu](https://www.urionlinejudge.com.br/judge/en/problems/view/2374)
+    - [JavaScript Solution](./JavaScript/2374.js)
 
 - ### SQL
 
