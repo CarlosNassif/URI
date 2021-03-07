@@ -4,8 +4,8 @@ Repository to upload my URI online judge problems' solutions.
 
 ## Solved
 
-&ensp;[Beginner](###Beginner)&ensp; |
-&ensp;[SQL](###sql)&ensp;
+&ensp;[Beginner](#Beginner)&ensp; |
+&ensp;[SQL](#SQL)&ensp;
 
 - ### Beginner
 
