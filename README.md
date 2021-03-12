@@ -12,6 +12,7 @@ Repository to upload my URI online judge problems' solutions.
 
   - [1000 - Hello World!](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)
     - [JavaScript Solution](./JavaScript/1000.js)
+    - [Java Solution](./Java/1000.java)
   - [1001 - Extremely Basic](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)
     - [JavaScript Solution](./JavaScript/1001.js)
   - [1002 - Area of a Circle](https://www.urionlinejudge.com.br/judge/en/problems/view/1002)
